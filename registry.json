@@ -638,6 +638,46 @@
       }
     },
     {
+      "name": "Kanagawa Dragon",
+      "path": "Kanagawa Dragon",
+      "dark": {
+        "mPrimary": "#8a9a7b",
+        "mOnPrimary": "#181616",
+        "mSecondary": "#8ea4a2",
+        "mOnSecondary": "#181616",
+        "mTertiary": "#c4746e",
+        "mOnTertiary": "#181616",
+        "mError": "#c4746e",
+        "mOnError": "#181616",
+        "mSurface": "#181616",
+        "mOnSurface": "#c5c9c5",
+        "mSurfaceVariant": "#282727",
+        "mOnSurfaceVariant": "#c8c093",
+        "mOutline": "#625e5a",
+        "mShadow": "#181616",
+        "mHover": "#393836",
+        "mOnHover": "#c5c9c5"
+      },
+      "light": {
+        "mPrimary": "#8a9a7b",
+        "mOnPrimary": "#c5c9c5",
+        "mSecondary": "#8ea4a2",
+        "mOnSecondary": "#c5c9c5",
+        "mTertiary": "#c4746e",
+        "mOnTertiary": "#c5c9c5",
+        "mError": "#c4746e",
+        "mOnError": "#c5c9c5",
+        "mSurface": "#c5c9c5",
+        "mOnSurface": "#181616",
+        "mSurfaceVariant": "#c8c093",
+        "mOnSurfaceVariant": "#181616",
+        "mOutline": "#8a9a7b",
+        "mShadow": "#737c73",
+        "mHover": "#c8c093",
+        "mOnHover": "#181616"
+      }
+    },
+    {
       "name": "Kanagawa Paper",
       "path": "Kanagawa Paper",
       "dark": {

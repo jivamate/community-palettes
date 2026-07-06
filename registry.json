@@ -962,6 +962,46 @@
       }
     },
     {
+      "name": "Kanagawa Kasumi",
+      "path": "Kanagawa Kasumi",
+      "dark": {
+        "mPrimary": "#D9A78B",
+        "mOnPrimary": "#1A2026",
+        "mSecondary": "#7794A6",
+        "mOnSecondary": "#1A2026",
+        "mTertiary": "#8BA37A",
+        "mOnTertiary": "#1A2026",
+        "mError": "#D96C6C",
+        "mOnError": "#1A2026",
+        "mSurface": "#1A2026",
+        "mOnSurface": "#D9D1BA",
+        "mSurfaceVariant": "#20272E",
+        "mOnSurfaceVariant": "#D9D1BA",
+        "mOutline": "#313C47",
+        "mShadow": "#0a0c10",
+        "mHover": "#D9A78B",
+        "mOnHover": "#1A2026"
+      },
+      "light": {
+        "mPrimary": "#A67A61",
+        "mOnPrimary": "#D9D1BA",
+        "mSecondary": "#4F6878",
+        "mOnSecondary": "#D9D1BA",
+        "mTertiary": "#667858",
+        "mOnTertiary": "#D9D1BA",
+        "mError": "#A64F4F",
+        "mOnError": "#D9D1BA",
+        "mSurface": "#D9D1BA",
+        "mOnSurface": "#1A2026",
+        "mSurfaceVariant": "#C7BFA6",
+        "mOnSurfaceVariant": "#1A2026",
+        "mOutline": "#9E9783",
+        "mShadow": "#1A2026",
+        "mHover": "#A67A61",
+        "mOnHover": "#D9D1BA"
+      }
+    },
+    {
       "name": "Kanagawa Paper",
       "path": "Kanagawa Paper",
       "dark": {

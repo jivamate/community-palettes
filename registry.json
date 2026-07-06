@@ -282,6 +282,46 @@
       }
     },
     {
+      "name": "Catppuccin Macchiato Pink",
+      "path": "Catppuccin Macchiato Pink",
+      "dark": {
+        "mPrimary": "#f5bde6",
+        "mOnPrimary": "#181926",
+        "mSecondary": "#f5a97f",
+        "mOnSecondary": "#181926",
+        "mTertiary": "#8bd5ca",
+        "mOnTertiary": "#181926",
+        "mError": "#ed8796",
+        "mOnError": "#181926",
+        "mSurface": "#24273a",
+        "mOnSurface": "#cad3f5",
+        "mSurfaceVariant": "#363a4f",
+        "mOnSurfaceVariant": "#a5adcb",
+        "mOutline": "#494d64",
+        "mShadow": "#181926",
+        "mHover": "#8bd5ca",
+        "mOnHover": "#181926"
+      },
+      "light": {
+        "mPrimary": "#ea76cb",
+        "mOnPrimary": "#eff1f5",
+        "mSecondary": "#fe640b",
+        "mOnSecondary": "#eff1f5",
+        "mTertiary": "#40a02b",
+        "mOnTertiary": "#eff1f5",
+        "mError": "#d20f39",
+        "mOnError": "#dce0e8",
+        "mSurface": "#eff1f5",
+        "mOnSurface": "#4c4f69",
+        "mSurfaceVariant": "#ccd0da",
+        "mOnSurfaceVariant": "#6c6f85",
+        "mOutline": "#9ca0b0",
+        "mShadow": "#dce0e8",
+        "mHover": "#40a02b",
+        "mOnHover": "#eff1f5"
+      }
+    },
+    {
       "name": "Cherry Blossom",
       "path": "Cherry Blossom",
       "dark": {

@@ -1242,6 +1242,46 @@
       }
     },
     {
+      "name": "Everforest Material",
+      "path": "Everforest Material",
+      "dark": {
+        "mPrimary": "#A7C080",
+        "mOnPrimary": "#161616",
+        "mSecondary": "#DBBC7F",
+        "mOnSecondary": "#161616",
+        "mTertiary": "#7FBBB3",
+        "mOnTertiary": "#161616",
+        "mError": "#E67E80",
+        "mOnError": "#161616",
+        "mSurface": "#161616",
+        "mOnSurface": "#D3C6AA",
+        "mSurfaceVariant": "#202020",
+        "mOnSurfaceVariant": "#D3C6AA",
+        "mOutline": "#414B50",
+        "mShadow": "#080808",
+        "mHover": "#A7C080",
+        "mOnHover": "#161616"
+      },
+      "light": {
+        "mPrimary": "#8DA101",
+        "mOnPrimary": "#FFFBEF",
+        "mSecondary": "#3A94C5",
+        "mOnSecondary": "#FFFBEF",
+        "mTertiary": "#F57D26",
+        "mOnTertiary": "#FFFBEF",
+        "mError": "#F85552",
+        "mOnError": "#FFFBEF",
+        "mSurface": "#FFFBEF",
+        "mOnSurface": "#5C6A72",
+        "mSurfaceVariant": "#F8F5E4",
+        "mOnSurfaceVariant": "#5C6A72",
+        "mOutline": "#A6B0A0",
+        "mShadow": "#829181",
+        "mHover": "#8DA101",
+        "mOnHover": "#FFFBEF"
+      }
+    },
+    {
       "name": "Flexoki",
       "path": "Flexoki",
       "dark": {
@@ -1602,6 +1642,86 @@
       }
     },
     {
+      "name": "Jiva Lotus",
+      "path": "Jiva Lotus",
+      "dark": {
+        "mPrimary": "#debfbf",
+        "mOnPrimary": "#262626",
+        "mSecondary": "#debfbf",
+        "mOnSecondary": "#262626",
+        "mTertiary": "#ebcece",
+        "mOnTertiary": "#262626",
+        "mError": "#bfc0de",
+        "mOnError": "#262626",
+        "mSurface": "#212226",
+        "mOnSurface": "#e1e2e5",
+        "mSurfaceVariant": "#2c2e33",
+        "mOnSurfaceVariant": "#e1e2e5",
+        "mOutline": "#68686e",
+        "mShadow": "#424242",
+        "mHover": "#ebcece",
+        "mOnHover": "#262626"
+      },
+      "light": {
+        "mPrimary": "#d18080",
+        "mOnPrimary": "#F5F5F5",
+        "mSecondary": "#CC7676",
+        "mOnSecondary": "#F5F5F5",
+        "mTertiary": "#db8888",
+        "mOnTertiary": "#F5F5F5",
+        "mError": "#db8181",
+        "mOnError": "#5a5a63",
+        "mSurface": "#E6EBDD",
+        "mOnSurface": "#666666",
+        "mSurfaceVariant": "#D3D9CA",
+        "mOnSurfaceVariant": "#666666",
+        "mOutline": "#C6C9C1",
+        "mShadow": "#666666",
+        "mHover": "#666666",
+        "mOnHover": "#F5F5F5"
+      }
+    },
+    {
+      "name": "Jiva Paper",
+      "path": "Jiva Paper",
+      "dark": {
+        "mPrimary": "#bfc0de",
+        "mOnPrimary": "#262626",
+        "mSecondary": "#bfc0de",
+        "mOnSecondary": "#262626",
+        "mTertiary": "#cecfeb",
+        "mOnTertiary": "#262626",
+        "mError": "#debfbf",
+        "mOnError": "#262626",
+        "mSurface": "#212226",
+        "mOnSurface": "#e1e2e5",
+        "mSurfaceVariant": "#2c2e33",
+        "mOnSurfaceVariant": "#e1e2e5",
+        "mOutline": "#68686e",
+        "mShadow": "#424242",
+        "mHover": "#cecfeb",
+        "mOnHover": "#262626"
+      },
+      "light": {
+        "mPrimary": "#666666",
+        "mOnPrimary": "#F5F5F5",
+        "mSecondary": "#666666",
+        "mOnSecondary": "#F5F5F5",
+        "mTertiary": "#707070",
+        "mOnTertiary": "#F5F5F5",
+        "mError": "#736363",
+        "mOnError": "#F5F5F5",
+        "mSurface": "#EBE7DD",
+        "mOnSurface": "#666666",
+        "mSurfaceVariant": "#DBD7CC",
+        "mOnSurfaceVariant": "#666666",
+        "mOutline": "#C9C9C1",
+        "mShadow": "#666666",
+        "mHover": "#666666",
+        "mOnHover": "#F5F5F5"
+      }
+    },
+    {
       "name": "Kanagawa Dragon",
       "path": "Kanagawa Dragon",
       "dark": {
@@ -1879,6 +1999,46 @@
         "mShadow": "#e2d8f5",
         "mHover": "#c79aff",
         "mOnHover": "#ffffff"
+      }
+    },
+    {
+      "name": "Macaron",
+      "path": "Macaron",
+      "dark": {
+        "mPrimary": "#E5B4E2",
+        "mOnPrimary": "#18181A",
+        "mSecondary": "#B4E5E5",
+        "mOnSecondary": "#18181A",
+        "mTertiary": "#E5D0B4",
+        "mOnTertiary": "#18181A",
+        "mError": "#E59A9E",
+        "mOnError": "#18181A",
+        "mSurface": "#18181A",
+        "mOnSurface": "#D4D4D4",
+        "mSurfaceVariant": "#242426",
+        "mOnSurfaceVariant": "#D4D4D4",
+        "mOutline": "#3A3A3D",
+        "mShadow": "#0a0a0c",
+        "mHover": "#E5B4E2",
+        "mOnHover": "#18181A"
+      },
+      "light": {
+        "mPrimary": "#B574B2",
+        "mOnPrimary": "#F2F2F2",
+        "mSecondary": "#74B5B5",
+        "mOnSecondary": "#F2F2F2",
+        "mTertiary": "#B59E74",
+        "mOnTertiary": "#F2F2F2",
+        "mError": "#B5666A",
+        "mOnError": "#F2F2F2",
+        "mSurface": "#F2F2F2",
+        "mOnSurface": "#2C2C2E",
+        "mSurfaceVariant": "#E0E0E0",
+        "mOnSurfaceVariant": "#2C2C2E",
+        "mOutline": "#B8B8B8",
+        "mShadow": "#18181A",
+        "mHover": "#B574B2",
+        "mOnHover": "#F2F2F2"
       }
     },
     {
